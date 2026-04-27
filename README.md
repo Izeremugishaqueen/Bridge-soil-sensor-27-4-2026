@@ -93,11 +93,11 @@ void loop() {
 ## 👨‍💻 Author
 
 * Your Name
-
+Izere mugisha queen
 ## 📄 License
 
 This project is open-source and free to use for educational purposes.
-
 ---
 
-💧 *Smart irrigation leads to smarter farming!*
+i have added lcd to display the values of the sensor
+
